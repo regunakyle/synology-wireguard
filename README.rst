@@ -3,6 +3,12 @@ WireGuard support for Synology NAS
 This package adds WireGuard support for Synology NAS drives. It provides the
 WireGuard kernel module and the ``wg``/``wg-quick`` commands.
 
+.. code-block::
+
+    Fork note:
+    This fork is tested and confirmed to work on a DS220+ (Gemini Lake) with DSM 7.2.1-69057 and 7.2.2-72806.
+
+    I have never tested this in another machine before, so use at your own risk.
 
 Disclaimer
 ----------
